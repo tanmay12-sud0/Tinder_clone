@@ -1,0 +1,19 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #f9f9f9;
+    align-items: center;
+
+}
+
+.Header > img{
+    display: flex;
+    height: 32px;
+    object-fit: contain;
+    align-items: center;
+    
+}
+
+.Header_icons{
+    padding: 20px;
+}
